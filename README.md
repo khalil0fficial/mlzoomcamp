@@ -1,2 +1,2 @@
 # mlzoomcamp
-ZoomCamp for Meachine Learning
+ZoomCamp for Machine Learning
